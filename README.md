@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Sou **Emilly Lorrany**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedora em formação.
+Sou **Emilly Lorrany**, estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** na **UDF** e desenvolvedora em formação, construindo minha trajetória na área de tecnologia.
 
 Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ordenação em C, programas em Python e páginas web com HTML, CSS e JavaScript. Cada repositório registra um passo do caminho.
 
@@ -32,9 +32,30 @@ Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ord
 
 <br />
 
+## ⭐ Projeto do semestre
+
+<p align="center">
+  <a href="https://github.com/emillyy-cell/bubble-sort-farmacia"><img src="./assets/cards/bubble-sort-farmacia.svg" width="70%" alt="Controle de Validade de Medicamentos — C, trabalho em grupo" /></a>
+</p>
+
+**Controle de Validade de Medicamentos**: programa em C que ordena o estoque de uma farmácia pelos dias que faltam para o vencimento, com Bubble Sort, e classifica cada item como OK, ATENÇÃO ou URGENTE.
+
+| Item | Informação |
+|---|---|
+| **Disciplina** | Algoritmos e Pensamento Computacional |
+| **Instituição** | UDF |
+| **Período** | 2º semestre de 2026 |
+| **Desenvolvimento** | Projeto acadêmico em grupo (4 integrantes) |
+
+<p align="left">
+  <a href="https://github.com/emillyy-cell/bubble-sort-farmacia"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-bubble--sort--farmacia-2B1320?style=flat-square&logo=github&logoColor=F7A1C4&labelColor=0D0D0D" alt="Ver repositório bubble-sort-farmacia" /></a>
+</p>
+
+<br />
+
 ## Projetos
 
-<!-- Cards: assets/cards/*.svg -->
+<!-- Cards: assets/cards/*.svg (o card do projeto do semestre fica na seção acima) -->
 <p align="center">
   <a href="https://github.com/emillyy-cell/menu-utilitarios-python"><img src="./assets/cards/menu-utilitarios-python.svg" width="49%" alt="Menu de Utilitários — Python" /></a>
   <a href="https://github.com/emillyy-cell/Algoritmos-e-Pensamento-Computacional"><img src="./assets/cards/Algoritmos-e-Pensamento-Computacional.svg" width="49%" alt="Algoritmos e Pensamento Computacional — Flowgorithm" /></a>
@@ -45,7 +66,6 @@ Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ord
 </p>
 <p align="center">
   <a href="https://github.com/emillyy-cell/ordena-o-notas"><img src="./assets/cards/ordena-o-notas.svg" width="49%" alt="Ordenação de Notas — C" /></a>
-  <a href="https://github.com/emillyy-cell/bubble-sort-farmacia"><img src="./assets/cards/bubble-sort-farmacia.svg" width="49%" alt="Validade de Medicamentos — C" /></a>
 </p>
 
 <br />

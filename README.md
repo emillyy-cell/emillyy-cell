@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/emilly-lorrany-9a26a527b/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F7A1C4" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/emilly_l0rrany/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F7A1C4" alt="Instagram" /></a>
+  <a href="mailto:emilly.lorrany2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F7A1C4" alt="E-mail" /></a>
 </p>
 
 <br />
@@ -20,6 +21,8 @@
 
 Sou **Emilly Lorrany**, estudante do 2º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** na **UDF** e desenvolvedora em formação, construindo minha trajetória na área de tecnologia.
 
+Sempre gostei de tecnologia. Por isso, assim que terminei o ensino médio, entrei na área: eu sabia que ia me encontrar nela.
+
 Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ordenação em C, programas em Python e páginas web com HTML, CSS e JavaScript. Cada repositório registra um passo do caminho.
 
 <br />
@@ -27,8 +30,18 @@ Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ord
 ## Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github&theme=dark" alt="HTML, CSS, JavaScript, Python, C, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,mysql,git,github&theme=dark" alt="HTML, CSS, JavaScript, Python, C, MySQL, Git e GitHub" />
 </p>
+
+**Estudando agora:** C, Python, HTML, CSS, JavaScript, SQL com MySQL, Git e GitHub.
+
+<br />
+
+## 🎯 Metas
+
+- Conseguir meu primeiro **estágio** na área de tecnologia.
+- Aprofundar meus conhecimentos em **JavaScript**.
+- Aprender **Java**.
 
 <br />
 
@@ -105,6 +118,7 @@ Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ord
 <p align="left">
   <a href="https://www.linkedin.com/in/emilly-lorrany-9a26a527b/"><img src="https://img.shields.io/badge/LinkedIn-Emilly%20Lorrany-2B1320?style=flat-square&logo=linkedin&logoColor=F7A1C4&labelColor=0D0D0D" alt="LinkedIn: Emilly Lorrany" /></a>
   <a href="https://www.instagram.com/emilly_l0rrany/"><img src="https://img.shields.io/badge/Instagram-@emilly__l0rrany-2B1320?style=flat-square&logo=instagram&logoColor=F7A1C4&labelColor=0D0D0D" alt="Instagram: @emilly_l0rrany" /></a>
+  <a href="mailto:emilly.lorrany2007@gmail.com"><img src="https://img.shields.io/badge/E--mail-emilly.lorrany2007%40gmail.com-2B1320?style=flat-square&logo=gmail&logoColor=F7A1C4&labelColor=0D0D0D" alt="E-mail: emilly.lorrany2007@gmail.com" /></a>
 </p>
 
 <br />

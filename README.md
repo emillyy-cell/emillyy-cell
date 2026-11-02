@@ -1,87 +1,94 @@
-<h1 align="center">Emilly Lorrany</h1>
-
+<!-- Banner: assets/banner.svg (SVG próprio, preto e rosa) -->
 <p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas · Em busca de estágio em Tecnologia da Informação
+  <img src="./assets/banner.svg" alt="Emilly Lorrany Alves dos Santos — Transformando curiosidade em conhecimento e ideias em soluções." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/emilly-lorrany-9a26a527b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Emilly%20Lorrany-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
   <a href="https://github.com/emillyy-cell">
-    <img src="https://img.shields.io/badge/GitHub-emillyy--cell-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="mailto:emilly.lorrany2007@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-emilly.lorrany2007%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=F7A1C4&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedora+em+forma%C3%A7%C3%A3o;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+Python+%C2%B7+C" alt="Estudante de Análise e Desenvolvimento de Sistemas · Desenvolvedora em formação" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/emilly-lorrany-9a26a527b/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F7A1C4" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/emilly_l0rrany/"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F7A1C4" alt="Instagram" /></a>
+</p>
+
+<br />
 
 ## Sobre mim
 
-Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas** no Centro Universitário do Distrito Federal (UDF). Gosto de transformar problemas do dia a dia em programas: já desenvolvi um monitor de temperatura, um controle de validade de medicamentos e uma lista de compras interativa.
+Sou **Emilly Lorrany**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvedora em formação.
 
-Uso este GitHub para registrar minha evolução, com projetos práticos, documentação clara e código organizado.
+Aqui ficam os projetos que construo enquanto estudo: lógica e algoritmos de ordenação em C, programas em Python e páginas web com HTML, CSS e JavaScript. Cada repositório registra um passo do caminho.
 
-## Objetivo profissional
-
-Busco uma oportunidade de **estágio em TI** onde eu possa aplicar o que aprendo na faculdade, trabalhar em equipe e crescer como desenvolvedora.
+<br />
 
 ## Tecnologias
 
-**Linguagens e ferramentas que já usei em projetos**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,git,github&theme=dark" alt="HTML, CSS, JavaScript, Python, C, Git e GitHub" />
+</p>
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<br />
 
-**Conhecimentos aplicados**
+## Projetos
 
-- Lógica de programação e pensamento computacional
-- Algoritmos de ordenação (Bubble Sort e Quick Sort) e análise de complexidade
-- Estruturas condicionais e de repetição, funções e vetores
-- Validação de entrada de dados
-- Manipulação do DOM com JavaScript
-- Documentação de projetos e testes com evidências
+<!-- Cards: assets/cards/*.svg -->
+<p align="center">
+  <a href="https://github.com/emillyy-cell/menu-utilitarios-python"><img src="./assets/cards/menu-utilitarios-python.svg" width="49%" alt="Menu de Utilitários — Python" /></a>
+  <a href="https://github.com/emillyy-cell/Algoritmos-e-Pensamento-Computacional"><img src="./assets/cards/Algoritmos-e-Pensamento-Computacional.svg" width="49%" alt="Algoritmos e Pensamento Computacional — Flowgorithm" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/emillyy-cell/Lista-de-Compras"><img src="./assets/cards/Lista-de-Compras.svg" width="49%" alt="Lista de Compras — HTML, CSS e JavaScript" /></a>
+  <a href="https://github.com/emillyy-cell/Sensor-de-Temperatura-em-C-"><img src="./assets/cards/Sensor-de-Temperatura-em-C-.svg" width="49%" alt="Sensor de Temperatura — C" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/emillyy-cell/ordena-o-notas"><img src="./assets/cards/ordena-o-notas.svg" width="49%" alt="Ordenação de Notas — C" /></a>
+  <a href="https://github.com/emillyy-cell/bubble-sort-farmacia"><img src="./assets/cards/bubble-sort-farmacia.svg" width="49%" alt="Validade de Medicamentos — C" /></a>
+</p>
 
-**Estudando no momento**
+<br />
 
-Estou desenvolvendo um aplicativo web de receitas (em andamento) e, com ele, aprendendo:
+## Estatísticas
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+<!-- Cards gerados diariamente por scripts/profile_cards.py (.github/workflows/profile.yml) na branch "output" -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/stats.svg" width="49%" alt="Estatísticas no GitHub" />
+  <img src="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/top-langs.svg" width="49%" alt="Linguagens mais usadas" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/streak.svg" width="98.5%" alt="Sequência de contribuições" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/activity.svg" width="98.5%" alt="Atividade nos últimos 31 dias" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/trophies.svg" width="98.5%" alt="Troféus" />
+</p>
 
-## Áreas de interesse
+<br />
 
-| Área | Foco |
-|---|---|
-| Backend | Lógica de servidor, APIs e bancos de dados |
-| Desenvolvimento de Software | Código limpo, boas práticas e versionamento |
-| Dados e Inteligência Artificial | Análise de dados e aprendizado de máquina |
-| Cloud Computing | Infraestrutura e serviços em nuvem |
-| Segurança da Informação | Proteção de sistemas e dados |
+<!-- Snake: gerada por .github/workflows/profile.yml na branch "output" -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/github-snake.svg" />
+    <img alt="Snake comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/emillyy-cell/emillyy-cell/output/github-snake-dark.svg" />
+  </picture>
+</p>
 
-## Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Sensor de Temperatura](https://github.com/emillyy-cell/Sensor-de-Temperatura-em-C-) | Simula um sensor que encerra o monitoramento após 3 leituras consecutivas acima do limite e gera um relatório com média, máxima, mínima e percentual. Testes documentados com evidências. | C |
-| [Controle de Validade de Medicamentos](https://github.com/emillyy-cell/bubble-sort-farmacia) | Ordena o estoque de uma farmácia pelos dias até o vencimento com Bubble Sort e classifica a urgência de cada item. Projeto em grupo. | C |
-| [Lista de Compras](https://github.com/emillyy-cell/Lista-de-Compras) | Página interativa para adicionar e remover itens organizados por categoria. | HTML, CSS, JavaScript |
-| [Ordenação de Notas](https://github.com/emillyy-cell/ordena-o-notas) | Ordena as notas de uma turma com Bubble Sort e Quick Sort e compara o número de comparações e trocas de cada algoritmo. | C |
-| [Menu de Utilitários](https://github.com/emillyy-cell/menu-utilitarios-python) | Programa com menu: verificador de números, calculadora e tabuada. | Python |
+<br />
 
 ## Contato
 
-- E-mail: [emilly.lorrany2007@gmail.com](mailto:emilly.lorrany2007@gmail.com)
-- LinkedIn: [linkedin.com/in/emilly-lorrany-9a26a527b](https://www.linkedin.com/in/emilly-lorrany-9a26a527b/)
-- GitHub: [github.com/emillyy-cell](https://github.com/emillyy-cell)
+<p align="left">
+  <a href="https://www.linkedin.com/in/emilly-lorrany-9a26a527b/"><img src="https://img.shields.io/badge/LinkedIn-Emilly%20Lorrany-2B1320?style=flat-square&logo=linkedin&logoColor=F7A1C4&labelColor=0D0D0D" alt="LinkedIn: Emilly Lorrany" /></a>
+  <a href="https://www.instagram.com/emilly_l0rrany/"><img src="https://img.shields.io/badge/Instagram-@emilly__l0rrany-2B1320?style=flat-square&logo=instagram&logoColor=F7A1C4&labelColor=0D0D0D" alt="Instagram: @emilly_l0rrany" /></a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="./assets/footer.svg" alt="Obrigada pela visita." width="100%" />
+</p>

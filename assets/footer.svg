@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Obrigada pela visita.">
+  <defs>
+    <linearGradient id="fl" x1="0" x2="1">
+      <stop offset="0" stop-color="#F7A1C4" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F7A1C4"/>
+      <stop offset="1" stop-color="#F7A1C4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="18" fill="#0D0D0D"/>
+  <rect x="300" y="0" width="600" height="2" fill="url(#fl)"/>
+  <text x="600" y="58" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="22" fill="#F2F2F2">Obrigada pela visita.</text>
+  <text x="600" y="88" text-anchor="middle" font-family="'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#9E9E9E">Emilly Lorrany  ·  <tspan fill="#F7A1C4">github.com/emillyy-cell</tspan></text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="210" viewBox="0 0 960 210" role="img" aria-label="Troféus">
+  <rect x="0.5" y="0.5" width="959" height="209" rx="14" fill="#0D0D0D" stroke="#2B1320"/>
+  <rect x="28" y="0.5" width="44" height="3" rx="1.5" fill="#F7A1C4"/>
+  <text x="28" y="44" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#F7A1C4">Troféus</text>
+  <circle cx="104" cy="98" r="30" fill="none" stroke="#F7A1C4" stroke-width="2"/>
+  <text x="104" y="105" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#F2F2F2">26</text>
+  <circle cx="80" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="92" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="104" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="116" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="128" cy="150" r="3.5" fill="#3D1F2E"/>
+  <text x="104" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F2F2F2">Commits</text>
+  <circle cx="255" cy="98" r="30" fill="none" stroke="#F7A1C4" stroke-width="2"/>
+  <text x="255" y="105" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#F2F2F2">8</text>
+  <circle cx="231" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="243" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="255" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="267" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="279" cy="150" r="3.5" fill="#3D1F2E"/>
+  <text x="255" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F2F2F2">Repositórios</text>
+  <circle cx="406" cy="98" r="30" fill="none" stroke="#F7A1C4" stroke-width="2"/>
+  <text x="406" y="105" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#F2F2F2">35</text>
+  <circle cx="382" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="394" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="406" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="418" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="430" cy="150" r="3.5" fill="#3D1F2E"/>
+  <text x="406" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F2F2F2">Contribuições</text>
+  <circle cx="557" cy="98" r="30" fill="none" stroke="#F7A1C4" stroke-width="2"/>
+  <text x="557" y="105" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#F2F2F2">3</text>
+  <circle cx="533" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="545" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="557" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="569" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="581" cy="150" r="3.5" fill="#3D1F2E"/>
+  <text x="557" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F2F2F2">Linguagens</text>
+  <circle cx="708" cy="98" r="30" fill="none" stroke="#3D1F2E" stroke-width="2"/>
+  <text x="708" y="105" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#9E9E9E">0</text>
+  <circle cx="684" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="696" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="708" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="720" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="732" cy="150" r="3.5" fill="#3D1F2E"/>
+  <text x="708" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#9E9E9E">Pull requests</text>
+  <circle cx="859" cy="98" r="30" fill="none" stroke="#F7A1C4" stroke-width="2"/>
+  <text x="859" y="105" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#F2F2F2">2</text>
+  <circle cx="835" cy="150" r="3.5" fill="#F7A1C4"/><circle cx="847" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="859" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="871" cy="150" r="3.5" fill="#3D1F2E"/><circle cx="883" cy="150" r="3.5" fill="#3D1F2E"/>
+  <text x="859" y="180" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#F2F2F2">Seguidores</text>
+
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-label="Linguagens mais usadas">
+  <rect x="0.5" y="0.5" width="479" height="229" rx="14" fill="#0D0D0D" stroke="#2B1320"/>
+  <rect x="28" y="0.5" width="44" height="3" rx="1.5" fill="#F7A1C4"/>
+  <text x="28" y="44" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#F7A1C4">Linguagens mais usadas</text>
+  <clipPath id="b"><rect x="28" y="66" width="424" height="10" rx="5"/></clipPath>
+  <rect x="28" y="66" width="424" height="10" rx="5" fill="#3D1F2E"/>
+  <g clip-path="url(#b)">
+    <rect x="28.0" y="66" width="182.5" height="10" fill="#F7A1C4"/>
+    <rect x="210.5" y="66" width="168.7" height="10" fill="#E5739F"/>
+    <rect x="379.2" y="66" width="72.8" height="10" fill="#C9567F"/>
+  </g>
+  <circle cx="33" cy="105" r="5" fill="#F7A1C4"/>
+  <text x="46" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#F2F2F2">Python <tspan fill="#9E9E9E">43.0%</tspan></text>
+  <circle cx="253" cy="105" r="5" fill="#E5739F"/>
+  <text x="266" y="110" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#F2F2F2">C <tspan fill="#9E9E9E">39.8%</tspan></text>
+  <circle cx="33" cy="135" r="5" fill="#C9567F"/>
+  <text x="46" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#F2F2F2">HTML <tspan fill="#9E9E9E">17.2%</tspan></text>
+
+</svg>

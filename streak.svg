@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-label="Sequência de contribuições">
+  <rect x="0.5" y="0.5" width="959" height="229" rx="14" fill="#0D0D0D" stroke="#2B1320"/>
+  <rect x="28" y="0.5" width="44" height="3" rx="1.5" fill="#F7A1C4"/>
+  <text x="28" y="44" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="600" fill="#F7A1C4">Sequência de contribuições</text>
+  <line x1="320" y1="70" x2="320" y2="190" stroke="#2B1320"/>
+  <line x1="640" y1="70" x2="640" y2="190" stroke="#2B1320"/>
+  <circle cx="480" cy="118" r="40" fill="none" stroke="#F7A1C4" stroke-width="4"/>
+  <text x="160" y="128" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#F2F2F2">35</text>
+  <text x="160" y="162" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#F2F2F2">Contribuições</text>
+  <text x="160" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#9E9E9E">1 jan 2026 – hoje</text>
+  <text x="480" y="132" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#F7A1C4">0</text>
+  <text x="480" y="186" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#F7A1C4">Sequência atual</text>
+  <text x="480" y="206" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#9E9E9E">—</text>
+  <text x="800" y="128" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="30" font-weight="600" fill="#F2F2F2">2</text>
+  <text x="800" y="162" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#F2F2F2">Maior sequência</text>
+  <text x="800" y="184" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="12" fill="#9E9E9E">2 jul – 3 jul</text>
+
+</svg>
